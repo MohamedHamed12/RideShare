@@ -1,4 +1,4 @@
-# RideShare# Ride-Sharing Service (Uber Clone) — Complete System Design Blueprint
+# RideShare (Uber Clone) — Complete System Design Blueprint
 
 ---
 
